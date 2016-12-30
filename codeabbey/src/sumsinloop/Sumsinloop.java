@@ -21,8 +21,7 @@ public class Sumsinloop {
 		
 	}
 	
-	
-	
+
 	
 	public static void main(String[] args) {
 
@@ -51,9 +50,7 @@ public class Sumsinloop {
 			}
 		
 		cont++;
-			
-			
-		
+					
 		}
 		
 		
